@@ -1,0 +1,24 @@
+
+# dependencies
+/node_modules
+/front/node_modules
+/front/.pnp
+/front/.pnp.js
+
+# testing
+/front/coverage
+
+# production
+/front/build
+
+# misc
+/backend/config/config.env
+/front/.DS_Store
+/front/.env.local
+/front/.env.development.local
+/front/.env.test.local
+/front/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
